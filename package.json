@@ -1,0 +1,17 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice API",
+  "main": "server.js",
+  "dependencies": {
+    "moment": "^2.11.1",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Elizabeth Ferdman",
+  "license": "ISC"
+}
